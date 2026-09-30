@@ -1,6 +1,6 @@
 <div align="center">
 
-# Alisa Novikova
+# Alice Novikova
 
 **Machine Learning Researcher**
 
